@@ -1,58 +1,58 @@
 Partido;Candidato Presidencial;Candidato Vicepresidencial;Votos;Votos porcentuales;Ano;Vuelta;Tendencia;Ingresos;Gastos
-Asociacion Primero Colombia;Alvaro Uribe Velez;Francisco Santos;5862655;0.5451;2002;1;1;NA;NA
-Partido Liberal Colombiano;Horacio Serpa;Jose Gregorio Hernandez;3514779;0.3268;2002;1;-1;NA;NA
-Polo Democratico Alternativo;Luis Eduardo Garzon;Vera Grabe;680245;0.0632;2002;1;-1;NA;NA
-Movimiento SI, Colombia;Noemi Sanin;Fabio Villegas;641884;0.0596;2002;1;1;NA;NA
-Partido Verde Oxigeno;Ingrid Betancourt Pulecio;Clara Leticia Rojas Gonzalez;53922;0.0048;2002;1;0;NA;NA
-Movimiento Fuerza Colombia;Harold Bedoya Pizarro;Marino Jaramillo Echeverri;50763;0.0045;2002;1;-1;NA;NA
-Movimiento Defensa Ciudadana;Francisco Tovar Garces;Ricardo Diaz Caballero;16333;0.0014;2002;1;1;NA;NA
-Movimiento 19 de Abril;Augusto Guillermo Lora;German Rojas Nino;10987;0.0009;2002;1;-1;NA;NA
-Participacion Comunitaria;Alvaro Cristancho Toscano;Manuel Enrique Delgado;9627;0.0008;2002;1;0;NA;NA
-Mov. Comunal y Comunitario;Guillermo Antonio Cardona;Hernan Cuervo Bernal;8023;0.0007;2002;1;0;NA;NA
-Participacion Comunitaria;Rodolfo Rincon Sosa;Donaldo Jinete Escorcia;6311;0.0005;2002;1;0;NA;NA
-Voto en blanco;En blanco;En blanco;122240;0.0001;2002;1;NA;NA;NA
-Primero Colombia;Alvaro Uribe Velez;Francisco Santos Calderon;7397835;0.6235;2006;1;1;NA;NA
-Polo Democratico Alternativo;Carlos Gaviria Diaz;Patricia Lara Salive;2613157;0.2202;2006;1;-1;NA;NA
-Partido Liberal Colombiano;Horacio Serpa Uribe;Luis Ivan Marulanda Gomez;1404235;0.1183;2006;1;-1;NA;NA
-Alianza Social Indigena;Antanas Mockus Sivickas;Maria Isabel Patino;146583;0.0123;2006;1;-1;NA;NA
-Reconstruccion Democratica Nacional;Enrique Parejo Gonzalez;Felipe Cardenas Tamara;42652;0.0035;2006;1;0;NA;NA
-Movimiento Nacional de Reconciliacion;Alvaro Leyva Duran;Luis Rafael Yarzagaray;18263;0.0015;2006;1;1;NA;NA
-Movimiento Comunal y Comunitario;Carlos Rincon;Guillermo Antonio Cardona;15388;0.0012;2006;1;0;NA;NA
-Voto en blanco;En blanco;En blanco;226297;0.0191;2006;1;NA;NA;NA
-Partido Social de Unidad Nacional;Juan Manuel Santos Calderon;Angelino Garzon Quintero;6802043;0.4667;2010;1;1;NA;NA
-Partido Verde;Antanas Mockus Sivickas;Sergio Fajardo Valderrama;3134222;0.2151;2010;1;-1;NA;NA
-Partido Cambio Radical;German Vargas Lleras;Elsa Margarita Noguera De la Espriella;1473627;0.1011;2010;1;1;NA;NA
-Polo Democratico Alternativo;Gustavo Francisco Petro Urrego;Clara Eugenia Lopez Obregon;1331267;0.0913;2010;1;-1;NA;NA
-Partido Conservador Colombiano;Marta Noemi Sanin Posada;Luis Ernesto Mejia Castro;893819;0.0613;2010;1;1;NA;NA
-Partido Liberal Colombiano;Rafael Pardo Rueda;Anibal Gaviria Correa;638302;0.0438;2010;1;-1;NA;NA
-Movimiento La Voz de la Consciencia;Robinson Alexander Devia;Olga Lucia Taborda;31338;0.0022;2010;1;0;NA;NA
-Partido Politico Apertura Liberal;Jairo Calderon;Jobanny Burbano Cardona;29151;0.002;2010;1;1;NA;NA
-Alianza Social Afrocolombiana;Jaime Araujo Renteria;Ana Maria Cabal;14847;0.001;2010;1;-1;NA;NA
-Voto en blanco;En blanco;En blanco;223977;0.0154;2010;1;NA;NA;NA
-Partido Social de Unidad Nacional;Juan Manuel Santos Calderon;Angelino Garzon Quintero;9028943;0.6913;2010;2;1;NA;NA
-Partido Verde;Antanas Mockus Sivickas;Sergio Fajardo Valderrama;3587975;0.2747;2010;2;-1;NA;NA
-Voto en blanco;En blanco;En blanco;444274;0.034;2010;2;NA;NA;NA
+Asociacion Primero Colombia;Alvaro Uribe Velez;Francisco Santos;5862655;0.5451;2002;1;1;;
+Partido Liberal Colombiano;Horacio Serpa;Jose Gregorio Hernandez;3514779;0.3268;2002;1;-1;;
+Polo Democratico Alternativo;Luis Eduardo Garzon;Vera Grabe;680245;0.0632;2002;1;-1;;
+Movimiento SI, Colombia;Noemi Sanin;Fabio Villegas;641884;0.0596;2002;1;1;;
+Partido Verde Oxigeno;Ingrid Betancourt Pulecio;Clara Leticia Rojas Gonzalez;53922;0.0048;2002;1;0;;
+Movimiento Fuerza Colombia;Harold Bedoya Pizarro;Marino Jaramillo Echeverri;50763;0.0045;2002;1;-1;;
+Movimiento Defensa Ciudadana;Francisco Tovar Garces;Ricardo Diaz Caballero;16333;0.0014;2002;1;1;;
+Movimiento 19 de Abril;Augusto Guillermo Lora;German Rojas Nino;10987;0.0009;2002;1;-1;;
+Participacion Comunitaria;Alvaro Cristancho Toscano;Manuel Enrique Delgado;9627;0.0008;2002;1;0;;
+Mov. Comunal y Comunitario;Guillermo Antonio Cardona;Hernan Cuervo Bernal;8023;0.0007;2002;1;0;;
+Participacion Comunitaria;Rodolfo Rincon Sosa;Donaldo Jinete Escorcia;6311;0.0005;2002;1;0;;
+Voto en blanco;En blanco;En blanco;122240;0.0001;2002;1;;;
+Primero Colombia;Alvaro Uribe Velez;Francisco Santos Calderon;7397835;0.6235;2006;1;1;;
+Polo Democratico Alternativo;Carlos Gaviria Diaz;Patricia Lara Salive;2613157;0.2202;2006;1;-1;;
+Partido Liberal Colombiano;Horacio Serpa Uribe;Luis Ivan Marulanda Gomez;1404235;0.1183;2006;1;-1;;
+Alianza Social Indigena;Antanas Mockus Sivickas;Maria Isabel Patino;146583;0.0123;2006;1;-1;;
+Reconstruccion Democratica Nacional;Enrique Parejo Gonzalez;Felipe Cardenas Tamara;42652;0.0035;2006;1;0;;
+Movimiento Nacional de Reconciliacion;Alvaro Leyva Duran;Luis Rafael Yarzagaray;18263;0.0015;2006;1;1;;
+Movimiento Comunal y Comunitario;Carlos Rincon;Guillermo Antonio Cardona;15388;0.0012;2006;1;0;;
+Voto en blanco;En blanco;En blanco;226297;0.0191;2006;1;;;
+Partido Social de Unidad Nacional;Juan Manuel Santos Calderon;Angelino Garzon Quintero;6802043;0.4667;2010;1;1;;
+Partido Verde;Antanas Mockus Sivickas;Sergio Fajardo Valderrama;3134222;0.2151;2010;1;-1;;
+Partido Cambio Radical;German Vargas Lleras;Elsa Margarita Noguera De la Espriella;1473627;0.1011;2010;1;1;;
+Polo Democratico Alternativo;Gustavo Francisco Petro Urrego;Clara Eugenia Lopez Obregon;1331267;0.0913;2010;1;-1;;
+Partido Conservador Colombiano;Marta Noemi Sanin Posada;Luis Ernesto Mejia Castro;893819;0.0613;2010;1;1;;
+Partido Liberal Colombiano;Rafael Pardo Rueda;Anibal Gaviria Correa;638302;0.0438;2010;1;-1;;
+Movimiento La Voz de la Consciencia;Robinson Alexander Devia;Olga Lucia Taborda;31338;0.0022;2010;1;0;;
+Partido Politico Apertura Liberal;Jairo Calderon;Jobanny Burbano Cardona;29151;0.002;2010;1;1;;
+Alianza Social Afrocolombiana;Jaime Araujo Renteria;Ana Maria Cabal;14847;0.001;2010;1;-1;;
+Voto en blanco;En blanco;En blanco;223977;0.0154;2010;1;;;
+Partido Social de Unidad Nacional;Juan Manuel Santos Calderon;Angelino Garzon Quintero;9028943;0.6913;2010;2;1;;
+Partido Verde;Antanas Mockus Sivickas;Sergio Fajardo Valderrama;3587975;0.2747;2010;2;-1;;
+Voto en blanco;En blanco;En blanco;444274;0.034;2010;2;;;
 Centro Democratico;Oscar Ivan Zuluaga Escobar;Carlos Holmes Trujillo Garcia;3769005;0.2928;2014;1;1;20207402917;20207402917
 Unidad Nacional;Juan Manuel Santos Calderon;German Vargas Lleras;3310794;0.2572;2014;1;1;13552953683;13503047446
 Partido Conservador Colombiano;Marta Lucia Ramirez Blanco;Camilo Alberto Gomez Alzate;1997980;0.1552;2014;1;1;10005792863;11845977371
 Polo Democratico Alternativo y Union Patriotica;Clara Eugenia Lopez Obregon;Aida Avella Esquivel;1958518;0.1522;2014;1;-1;8316021574;8216689304
 Alianza Verde;Enrique Penalosa Londono;Isabel Segovia Ospina;1064758;0.0827;2014;1;-1;12035977863;12388945374
-Voto en blanco;En blanco;En blanco;770543;0.0598;2014;1;NA;;
-Unidad Nacional;Juan Manuel Santos Calderon;German Vargas Lleras;7839342;0.5099;2014;2;1;NA;NA
-Centro Democratico;Oscar Ivan Zuluaga Escobar;Carlos Holmes Trujillo Garcia;6917001;0.45;2014;2;1;NA;NA
-Voto en blanco;En blanco;En blanco;618759;0.0402;2014;2;NA;;
+Voto en blanco;En blanco;En blanco;770543;0.0598;2014;1;;;
+Unidad Nacional;Juan Manuel Santos Calderon;German Vargas Lleras;7839342;0.5099;2014;2;1;;
+Centro Democratico;Oscar Ivan Zuluaga Escobar;Carlos Holmes Trujillo Garcia;6917001;0.45;2014;2;1;;
+Voto en blanco;En blanco;En blanco;618759;0.0402;2014;2;;;
 Centro Democratico;Ivan Duque Marquez;Marta Lucia Ramirez;7616857;0.3936;2018;1;1;9843450000;8957918979
 Colombia Humana;Gustavo Petro;Angela Maria Robledo;4855069;0.2509;2018;1;-1;12008357000;269014890
 Coalicion Colombia;Sergio Fajardo;Claudia Lopez;4602916;0.2378;2018;1;0;3190612130;1156795381
 Mejor Vargas Lleras;German Vargas Lleras;Juan Carlos Pinzon;1412392;0.073;2018;1;1;10002700000;3201453569
 Partido Liberal - ASI;Humberto de La Calle;Clara Lopez;396151;0.0205;2018;1;0;1508000000;7784056604
-Todos Somos Colombia;Jorge Trujillo;Fredy Obando Pinillo;65767;0.0034;2018;1;1;NA;NA
-Somos Region Colombia;Viviane Morales;Jorge Leyva Duran;36138;0.0019;2018;1;1;NA;NA
-Partido de Reivindicacion Etnica;Promotores del voto en blanco;Promotores del voto en blanco;30128;0.0016;2018;1;0;NA;NA
-Voto en blanco;En blanco;En blanco;338581;0.0175;2018;1;NA;;
-Centro Democratico;Ivan Duque Marquez;Marta Lucia Ramirez;10398689;0.5403;2018;2;1;NA;NA
-Colombia Humana;Gustavo Petro Urrego;Angela Maria Robledo;8040449;0.4177;2018;2;-1;NA;NA
-Voto en blanco;En blanco;En blanco;807924;0.042;2018;2;NA;;
+Todos Somos Colombia;Jorge Trujillo;Fredy Obando Pinillo;65767;0.0034;2018;1;1;;
+Somos Region Colombia;Viviane Morales;Jorge Leyva Duran;36138;0.0019;2018;1;1;;
+Partido de Reivindicacion Etnica;Promotores del voto en blanco;Promotores del voto en blanco;30128;0.0016;2018;1;0;;
+Voto en blanco;En blanco;En blanco;338581;0.0175;2018;1;;;
+Centro Democratico;Ivan Duque Marquez;Marta Lucia Ramirez;10398689;0.5403;2018;2;1;;
+Colombia Humana;Gustavo Petro Urrego;Angela Maria Robledo;8040449;0.4177;2018;2;-1;;
+Voto en blanco;En blanco;En blanco;807924;0.042;2018;2;;;
 Coalicion Pacto Historico;Gustavo Petro;Francia Marquez;8541617;0.4034;2022;1;-1;18902200000;7683503149
 Liga de Gobernantes Anticorrupcion;Rodolfo Hernandez;Marelen Castillo;5965335;0.2817;2022;1;0;4137654500;2772335487
 Coalicion Equipo por Colombia;Federico Gutierrez;Rodrigo Lara Sanchez;5069448;0.2394;2022;1;1;6721674000;8029960050
@@ -61,7 +61,7 @@ Colombia Justa Libres;John Milton Rodriguez;Sandra de las Lajas Torres;271372;0.
 Movimiento de Salvacion Nacional;Enrique Gomez Martinez;Carlos Cuartas Quinceno;48685;0.0023;2022;1;1;150000000;109794547
 Partido Verde Oxigeno;Ingrid Betancourt;Jose Luis Esparza;14161;0.0007;2022;1;0;111000000;99863816
 Colombia Piensa en Grande;Luis Perez;Ceferino Mosquera;11507;0.0005;2022;1;1;133499157;121290044
-Voto en blanco;En blanco;En blanco;365764;0.0173;2022;1;NA;NA;NA
-Coalicion Pacto Historico;Gustavo Petro;Francia Marquez;11291986;0.5044;2022;2;-1;NA;NA
-Liga de Gobernantes Anticorrupcion;Rodolfo Hernandez;Marelen Castillo;10604337;0.4731;2022;2;0;NA;NA
-Voto en blanco;En blanco;En blanco;500043;0.0224;2022;2;NA;NA;NA
+Voto en blanco;En blanco;En blanco;365764;0.0173;2022;1;;;
+Coalicion Pacto Historico;Gustavo Petro;Francia Marquez;11291986;0.5044;2022;2;-1;;
+Liga de Gobernantes Anticorrupcion;Rodolfo Hernandez;Marelen Castillo;10604337;0.4731;2022;2;0;;
+Voto en blanco;En blanco;En blanco;500043;0.0224;2022;2;;;
